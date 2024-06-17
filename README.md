@@ -1,4 +1,4 @@
 # ODGM
-the code for the paper ：Object Detection is enough: Graph Matching Network for Cross-view UAV Localization
+The implementation for the paper ：Object Detection is enough: Graph Matching Network for Cross-view UAV Localization
 
-code will be upload after our paper is acceptted
+Code will be upload after the paper is acceptted
